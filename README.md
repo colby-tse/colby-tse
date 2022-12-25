@@ -6,6 +6,6 @@ In recent years, I've found interests in maths and programming! As a result, I d
 Get to know me:
 
 *   🌍  I'm based in Sydney
-*   ✉️  You can contact me at [ctse710@gmail.com](mailto:ctse710@gmail.com)
+*   ✉️  You can contact me at [colbydtse@gmail.com](mailto:colbydtse@gmail.com)
 *   🧠  My skills include C, Java and Python
 *   🥏  I play ultimate frisbee
